@@ -1,4 +1,4 @@
-#🤖 Biometric ESP32 Gesture Control Panel
+🤖 Biometric ESP32 Gesture Control Panel
 
 An AI-powered computer vision system that combines biometric face mesh detection, hand gesture recognition, text-to-speech audio feedback, and direct ESP32 smart home control over HTTP.
 
